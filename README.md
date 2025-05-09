@@ -10,7 +10,7 @@
 
 <div align="center" font=Righteous>
 
-👋 Hi, I'm Madhumetha from Tamil Nadu, India. I'm a passionate individual with a deep interest in technology and software development. My skills include proficiency in C, Java, React, HTML, and CSS. I'm currently pursuing my academic journey and actively seeking opportunities to apply my knowledge and contribute to innovative projects. I'm dedicated to learning and mastering new languages and frameworks, with a particular focus on enhancing user experiences through my work. Let's connect and collaborate to create impactful solutions together! 🚀
+👋 Hi, I'm Madhumetha from Tamil Nadu, India. I'm a passionate individual with a deep interest in technology and software development. My skills include proficiency in C, Java, Springboot, HTML, and CSS. I'm currently pursuing my academic journey and actively seeking opportunities to apply my knowledge and contribute to innovative projects. I'm dedicated to learning and mastering new languages and frameworks, with a particular focus on enhancing user experiences through my work. Let's connect and collaborate to create impactful solutions together! 🚀
 
  </div>
 <div>
